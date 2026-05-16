@@ -137,7 +137,7 @@ RTL-Wizard/
 ## 👨‍💻 Developer
 
 **Ghareeb Aleleiwi**
-Firmware & Electronics Engineer — Gilbarco Veeder-Root
+Firmware & Electronics Engineer
 📧 ghareebanwar@yahoo.com
 
 ---
