@@ -1,0 +1,15 @@
+# Source assets
+icons/[Originals]/
+icons/originals/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Screenshots (optional - remove if you want them tracked)
+Screenshot*.png
+
+# Temp files
+*.tmp
+*.log
